@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:wax_app/main.dart';
+import 'package:wax_app/app/wax_app.dart';
 
 void main() {
   testWidgets('auth flow opens signup from login', (tester) async {
